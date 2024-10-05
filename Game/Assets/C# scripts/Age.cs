@@ -38,7 +38,7 @@ public class Age : MonoBehaviour
         }
         else
         {
-            SceneManager.LoadScene("Adults");
+            SceneManager.LoadScene("Home");
         }
     }
 }

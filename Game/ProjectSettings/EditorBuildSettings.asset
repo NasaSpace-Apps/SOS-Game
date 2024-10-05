@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Adults.unity
     guid: c3b4e96916979f84b889e4a9a3d4f6eb
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 0bce5907d797a4cd8b0660dc119867e8
+  - enabled: 1
+    path: Assets/Scenes/Air Pollution.unity
+    guid: 64cbff92e79b44048939d9573b45eb58
+  - enabled: 1
+    path: Assets/Scenes/factory.unity
+    guid: b3ce96c2ecdd91e4e9cfeac77cd8c6d1
   m_configObjects: {}
